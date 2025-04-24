@@ -93,4 +93,5 @@ Packages/*
 #StarterContent
 Content/StarterContent/*
 
-Content/Characters/*
+Content/Characters/Echo/*
+Content/Characters/UEFN_Mannequin/*
